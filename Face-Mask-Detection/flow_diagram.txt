@@ -1,0 +1,23 @@
+
+-> Collect dataset (images with mask and without mask)
+
+-> Preprocess data
+   - resize images
+   - normalize
+   - apply augmentation (if needed)
+
+-> Split dataset into training and testing
+
+-> Build model (CNN / MobileNet)
+
+-> Train the model
+
+-> Evaluate model performance
+
+-> Take real-time input (webcam/video)
+
+-> Detect faces in the frame
+
+-> Classify each face (mask / no mask)
+
+-> Display result on screen
